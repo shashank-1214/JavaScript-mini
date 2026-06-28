@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📝 To-Do List App
 
 A responsive JavaScript To-Do List application built using HTML, CSS, and JavaScript.
@@ -38,3 +39,6 @@ todo-list-app/
 ## 🌐 Deployment
 
 Upload the project to GitHub and enable GitHub Pages to get a live hosted link.
+=======
+# JavaScript-mini
+>>>>>>> 00633dab4bafa3ecd93292f6ab3e815e49a92d4e
